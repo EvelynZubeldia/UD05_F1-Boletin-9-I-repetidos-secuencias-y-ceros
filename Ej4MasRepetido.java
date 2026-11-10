@@ -59,5 +59,9 @@ public class Ej4MasRepetido {
         System.out.println();
 
         sc.close();
+        //Intentando entender el ejercicio varias ia me dieron la opción de poner
+        //esto: array[i] = (int)(Math.random() * 10) + 1; ya que el enunciado dice 30 números
+        //aleatorios pero preferi ignorarlo
+
     }
 }
